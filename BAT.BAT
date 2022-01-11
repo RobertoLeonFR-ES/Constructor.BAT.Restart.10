@@ -2,18 +2,17 @@
 :menu
 echo.
 echo.
-echo                    ษออฤ     RC2 - Created by DVL    ฤออป
-echo                    บ Win9x and Dos Restart Constructor บ
-echo                    ศออฤ    dvl2003ro@yahoo.co.uk    ฤออผ
+echo                   
+echo                   echo                    รรรร        รรรยผ
 echo.
 echo      It will easily create .bat files with restart and similar commands
 echo.
-echo                    ษอออออออออออออออออออออออออออออออออออป
-echo                    บ Viruses don't harm, ignorance do! บ
-echo                    ศอออออออออออออออออออออออออออออออออออผ
+echo                    รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+echo                    ยบ Viruses don't harm, ignorance do! ยบ
+echo                    รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ
 echo.
 echo    Make a file (press a number from 1 to 6)
-echo    ฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤฤอฤอฤอฤอฤอฤ
+echo    รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร
 echo.
 echo    1 - Restart 1 (min.req. win95 + ie4.01)
 echo    2 - Restart 2   (min.req. msdos 6.0)
@@ -95,7 +94,7 @@ cls
 @echo.
 @echo.
 @echo   Greetz and special 10x goes to:
-@echo   อออออออออออออออออออออออออออออออ
+@echo   รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร
 @echo   - NGL - myth_eu@yahoo.com
 @echo   - SpTh - SPTH@aonmail.at
 @echo   - Sad1c - sad1c@interfree.it
@@ -108,7 +107,7 @@ cls
 @echo.
 @echo.
 @echo   Contact me at : dvl2003ro@yahoo.co.uk
-@echo                   อออออออออออออออออออออ
+@echo                   รรรรรรรรรรรรรรรรรรรรร
 @echo.
 @echo.
 @echo   Press any key to main menu ...
